@@ -8,6 +8,6 @@ void launchURL(ph) async {
 Widget txt(tt) {
   return Text(
     tt,
-    style: TextStyle(fontSize: 20, fontWeight: FontWeight.w600),
+    style: TextStyle(fontSize: 30, fontWeight: FontWeight.w600),
   );
 }
